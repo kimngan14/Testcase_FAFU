@@ -1,0 +1,377 @@
+
+Ngày 13/7/2023
+
+* Cần Thơ PO
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 2
+Các chức năng chưa viết testcase: 0
+
+* CMB 
+Số trường hợp kiểm thử chưa thực hiện (NY): 4
+Số trường hợp kiểm thử không đạt (NG): 0
+Các chức năng chưa viết testcase: 0
+
+* VIMC PO
+Số trường hợp kiểm thử chưa thực hiện (NY): 1
+Số trường hợp kiểm thử không đạt (NG): 4
+Các chức năng chưa viết testcase: 0
+
+* VIMC HR
+Số trường hợp kiểm thử chưa thực hiện (NY): 1
+Số trường hợp kiểm thử không đạt (NG): 0
+Các chức năng chưa viết testcase: 0
+
+=====> KẾT QUẢ
+		Số trường hợp kiểm thử chưa thực hiện (NY): 6
+		Số trường hợp kiểm thử không đạt (NG): 6
+		Các chức năng chưa viết testcase: 0
+
+--------------------------------------------------------------------------------------------------
+
+Ngày 14/7/2023
+
+* Cần Thơ PO
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 0
+Các chức năng chưa viết testcase: 0
+
+* CMB 
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 1
+Các chức năng chưa viết testcase: 0
+
+* VIMC PO
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 3
+Các chức năng chưa viết testcase: 0
+
+* VIMC HR
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 0
+Các chức năng chưa viết testcase: 0
+
+=====> KẾT QUẢ
+		Số trường hợp kiểm thử chưa thực hiện (NY): 0
+		Số trường hợp kiểm thử không đạt (NG): 4
+		Các chức năng chưa viết testcase: 0
+
+-------------------------------------------------------------------------------------
+
+Ngày 17/7/2023
+
+* Cần Thơ PO
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 0
+Các chức năng chưa viết testcase: 0
+
+* CMB 
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 1
+Các chức năng chưa viết testcase: 0
+
+* VIMC PO
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 1
+Các chức năng chưa viết testcase: 0
+
+* VIMC HR
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 0
+Các chức năng chưa viết testcase: 0
+
+* CMB PWA
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 1
+Các chức năng chưa viết testcase: 0
+
+=====> KẾT QUẢ
+		Số trường hợp kiểm thử chưa thực hiện (NY): 0
+		Số trường hợp kiểm thử không đạt (NG): 3
+		Các chức năng chưa viết testcase: 0
+
+-------------------------------------------------------------------------------------
+
+Ngày 18/7/2023
+
+* Cần Thơ PO
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 0
+Các chức năng chưa viết testcase: 0
+
+* CMB 
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 5
+Các chức năng chưa viết testcase: Tìm kiếm nâng cao [Văn bản đi], Data và paging
+
+* VIMC PO
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 0
+Các chức năng chưa viết testcase: 0
+
+* VIMC HR
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 0
+Các chức năng chưa viết testcase: 0
+
+* CMB PWA
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 1
+Các chức năng chưa viết testcase: 0
+
+=====> KẾT QUẢ
+		Số trường hợp kiểm thử chưa thực hiện (NY): 0
+		Số trường hợp kiểm thử không đạt (NG): 6
+		Các chức năng chưa viết testcase: Tìm kiếm nâng cao [Văn bản đi]
+							Data và paging [CMB]
+
+
+-------------------------------------------------------------------------------------
+
+Ngày 19/7/2023
+
+* Cần Thơ PO
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 0
+Các chức năng chưa viết testcase: 0
+
+* CMB 
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 0
+Các chức năng chưa viết testcase: 0
+
+* VIMC PO
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 0
+Các chức năng chưa viết testcase: 0
+
+* VIMC HR
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 0
+Các chức năng chưa viết testcase: 0
+
+* CMB PWA
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 0
+Các chức năng chưa viết testcase: 0
+
+=====> KẾT QUẢ
+		Số trường hợp kiểm thử chưa thực hiện (NY): 0
+		Số trường hợp kiểm thử không đạt (NG): 0
+		Các chức năng chưa viết testcase: 0
+
+
+
+-------------------------------------------------------------------------------------
+
+Ngày 20/7/2023
+
+* Cần Thơ PO
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 0
+Các chức năng chưa viết testcase: 0
+
+* CMB 
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 0
+Các chức năng chưa viết testcase: 0
+
+* VIMC PO
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 0
+Các chức năng chưa viết testcase: 0
+
+* VIMC HR
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 0
+Các chức năng chưa viết testcase: 0
+
+* CMB PWA
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 0
+Các chức năng chưa viết testcase: 0
+
+=====> KẾT QUẢ
+		Số trường hợp kiểm thử chưa thực hiện (NY): 0
+		Số trường hợp kiểm thử không đạt (NG): 0
+		Các chức năng chưa viết testcase: 0
+-------------------------------------------------------------------------------------
+
+Ngày 21/7/2023
+
+* CMB 
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 2
+Các chức năng chưa viết testcase: 0
+Số case đã test: 12
+
+* VIMC PO
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 1
+Các chức năng chưa viết testcase: 0
+Số case đã test: 3
+
+* CMB PWA
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 2
+Các chức năng chưa viết testcase: 0
+Số case đã test: 8
+
+=====> KẾT QUẢ
+		Số trường hợp kiểm thử chưa thực hiện (NY): 0
+		Số trường hợp kiểm thử không đạt (NG): 5
+		Các chức năng chưa viết testcase: 0
+		Số case đã test: 23
+-------------------------------------------------------------------------------------
+
+Ngày 24/7/2023
+
+* CMB 
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 1
+Các chức năng chưa viết testcase: 0
+Số case đã test: 2
+
+* VIMC PO
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 1
+Các chức năng chưa viết testcase: 0
+Số case đã test: 2
+
+* CMB PWA
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 0
+Các chức năng chưa viết testcase: 0
+Số case đã test: 57
+
+=====> KẾT QUẢ
+		Số trường hợp kiểm thử chưa thực hiện (NY): 0
+		Số trường hợp kiểm thử không đạt (NG): 2
+		Các chức năng chưa viết testcase: 0
+		Số case đã test: 61
+-------------------------------------------------------------------------------------
+
+Ngày 25/7/2023
+
+* CMB 
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 2
+Các chức năng chưa viết testcase: 0
+Số case đã test: 1
+
+* VIMC PO
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 1
+Các chức năng chưa viết testcase: 0
+Số case đã test: 0
+
+* CMB PWA
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 1
+Các chức năng chưa viết testcase: 0
+Số case đã test: 45
+
+=====> KẾT QUẢ
+		Số trường hợp kiểm thử chưa thực hiện (NY): 0
+		Số trường hợp kiểm thử không đạt (NG): 4
+		Các chức năng chưa viết testcase: 0
+		Số case đã test: 46
+
+-------------------------------------------------------------------------------------
+
+
+Ngày 26/7/2023
+
+* CMB 
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 3
+Các chức năng chưa viết testcase: 0
+Số case đã test: 2
+
+* VIMC PO
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 1
+Các chức năng chưa viết testcase: 0
+Số case đã test: 0
+
+* CMB PWA
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 1
+Các chức năng chưa viết testcase: 0
+Số case đã test: 22
+
+=====> KẾT QUẢ
+		Số trường hợp kiểm thử chưa thực hiện (NY): 0
+		Số trường hợp kiểm thử không đạt (NG): 5
+		Các chức năng chưa viết testcase: 0
+		Số case đã test: 24
+
+
+-------------------------------------------------------------------------------------
+
+
+Ngày 27/7/2023
+
+* CMB 
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 4
+Các chức năng chưa viết testcase: 0
+Số case đã test: 12
+
+* VIMC PO
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 1
+Các chức năng chưa viết testcase: 0
+Số case đã test: 0
+
+* CMB PWA
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 1
+Các chức năng chưa viết testcase: 0
+Số case đã test: 27
+
+=====> KẾT QUẢ
+		Số trường hợp kiểm thử chưa thực hiện (NY): 0
+		Số trường hợp kiểm thử không đạt (NG): 6
+		Các chức năng chưa viết testcase: 0
+		Số case đã test: 39
+-----------------------------------------------------
+
+Ngày 31/7/2023
+
+* CMB PWA
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 7
+Số case đã test: 54 (Phương) + 31 (Ngân) = 85
+
+=====> KẾT QUẢ
+		Số trường hợp kiểm thử chưa thực hiện (NY): 0
+		Số trường hợp kiểm thử không đạt (NG): 7
+		Số case đã test: 85
+
+Ngày 1/8/2023
+
+* CMB 
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 0
+Số case đã test: 1
+
+* VIMC PO
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 1
+Số case đã test: 1
+
+* CMB PWA
+Số trường hợp kiểm thử chưa thực hiện (NY): 0
+Số trường hợp kiểm thử không đạt (NG): 12
+Số case đã test: 38 (Phương) + 42 (Ngân) = 80                                                                              
+
+=====> KẾT QUẢ
+		Số trường hợp kiểm thử chưa thực hiện (NY): 0
+		Số trường hợp kiểm thử không đạt (NG): 13
+		Số case đã test: 82
+
+
+
+
+
+
